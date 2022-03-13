@@ -1,0 +1,13 @@
+/*  Custom  */
+.notification-section .alertSection {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 10px;
+  margin-right: 20px;
+  z-index: 1046;
+  width: 500px;
+}
+.notification-section {
+  position: relative;
+}
